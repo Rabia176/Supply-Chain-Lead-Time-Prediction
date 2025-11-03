@@ -1,4 +1,4 @@
-# Supply Chain Lead-Time Prediction (Full Demo - Small)
+# Supply Chain Lead-Time Prediction 
 
 This project contains a synthetic dataset (~1000 shipments) and a ready-to-run pipeline
 to preprocess data, train a RandomForest regression model to predict shipment lead time,
